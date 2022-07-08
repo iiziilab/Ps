@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>E:\PS_Project\PS_Core\PS\PS\bin\Release\net5.0\publish\</_PublishTargetUrl>
+    <History>True|2022-04-11T13:53:25.1685381Z;True|2021-10-26T12:16:14.4684562+05:30;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include=".ebextensions/ps.config">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="wwwroot/image/profile-1120211101132209822.jpg">
+      <publishTime>01/11/2021 13:22:09</publishTime>
+    </File>
+    <File Include="wwwroot/image/profile-220211101132539775.jpg">
+      <publishTime>01/11/2021 13:25:39</publishTime>
+    </File>
+    <File Include="wwwroot/image/profile-420211101131833509.jpg">
+      <publishTime>01/11/2021 13:18:33</publishTime>
+    </File>
+    <File Include="wwwroot/image/profile-420211101132602317.jpg">
+      <publishTime>01/11/2021 13:26:02</publishTime>
+    </File>
+    <File Include="wwwroot/image/profile-420211103131911469.jpg">
+      <publishTime>03/11/2021 13:19:11</publishTime>
+    </File>
+    <File Include="wwwroot/image/profile-520211101133636771.jpg">
+      <publishTime>01/11/2021 13:36:37</publishTime>
+    </File>
+    <File Include="wwwroot/image/profile-520211118165710170.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="wwwroot/image/profile-620211103131639163.jpg">
+      <publishTime>03/11/2021 13:16:39</publishTime>
+    </File>
+    <File Include="wwwroot/image/profile-820211103131858995.jpg">
+      <publishTime>03/11/2021 13:18:58</publishTime>
+    </File>
+    <File Include="wwwroot/image/profile-920211101131809375.jpg">
+      <publishTime>01/11/2021 13:18:09</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
